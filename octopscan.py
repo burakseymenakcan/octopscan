@@ -47,7 +47,7 @@ if choice == "1":
             print("[!] Couldn't connect to server. Exiting...")
             break
 
-elif choice == "2":
+elif choice == "0":
     print("Goodbye!")
 
 else:
